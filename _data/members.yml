@@ -1,6 +1,12 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Anushka Fernando
+  affiliation: Neuroscience Physiology and Pharmacology
+  github: PythonStudyGroup
   interests:
     - Programming
     - Open Science
+- name: David Perez-Suarez
+  affiliation: UCL/RITS
+  github: dpshelio
+  interests:
+    - Programming
+    - Dancing
